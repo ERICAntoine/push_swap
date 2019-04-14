@@ -1,0 +1,12 @@
+{
+    "name": "eric/push_swap",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ERICANTOINE",
+            "email": "eric.antoine@epitech.eu"
+        }
+    ],
+    "require": {}
+}
